@@ -1,0 +1,7 @@
+data/processed/lakh_segments.npy
+data/processed/maestro_segments.npy
+data/train_test_split/
+outputs/models/rlhf_iteration_1.pth
+outputs/models/rlhf_iteration_2.pth
+outputs/models/rlhf_final.pth
+music_gen_env/
